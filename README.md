@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @feranmiadkoy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-feranmiadkoy/feranmiadkoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, check out my website.
+- 👀 I’m interested in the future.
+- 🌱 I’m currently learning everything
+- 💞️ I’m looking forward to collaborate with you
+- 📫 How to reach me? I'm right here on my phone
